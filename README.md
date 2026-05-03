@@ -131,6 +131,9 @@ Predict **10-year forward average GDP per capita growth**
 ---
 
 ## 📁 Repository Structure
+
+'''
+text
 solow-structural-vs-ml-growth/
 ├── data/
 │ ├── raw/
@@ -151,6 +154,7 @@ solow-structural-vs-ml-growth/
 │ └── final_results.csv
 ├── environment.yml
 └── README.md
+'''
 
 ---
 
