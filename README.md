@@ -8,7 +8,8 @@ The core idea is to:
 > derive the model → test it empirically → challenge it with ML → compare outcomes
 
 ---
-
+Project status: Completed v1
+---
 ## 🔍 Research Question
 
 - Can Solow-style variables explain cross-country income differences?
